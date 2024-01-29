@@ -81,13 +81,13 @@ p {
 /* latin */
 @font-face {
   font-family: 'Calibri';
-  src: url('src/assets/fonts/calibri-font-family/calibri-bold.ttf') format('truetype');
+  src: url('/fonts/calibri-font-family/calibri-bold.ttf') format('truetype');
 }
 
 /* latin */
 @font-face {
   font-family: 'Calibri Normal';
-  src: url('src/assets/fonts/calibri-font-family/calibri-regular.ttf') format('truetype');
+  src: url('/fonts/calibri-font-family/calibri-regular.ttf') format('truetype');
 }
 
 .card {

@@ -25,7 +25,7 @@ const App = () => {
           ))}
         </div>
         <div className="right">
-          <img className="circle-image" src='./austin-yao.github.io/src/assets/me.jpg' alt='Circuluar' />
+          <img className="circle-image" src='/me.jpg' alt='Circuluar' />
         </div>
       </div>
       <div className="intro">
@@ -40,7 +40,7 @@ const App = () => {
         <a href="mailto:austin.y.yao@gmail.com">Email</a>&nbsp;-&nbsp;
         <a href='https://www.linkedin.com/in/ayyao/'>LinkedIn</a>&nbsp;-&nbsp;
         <a href='https://github.com/austin-yao'>Github</a>&nbsp;-&nbsp;
-        <a href='src/assets/YaoAustin_Resume copy.pdf' download='AustinYao_Resume.pdf'>Resume</a>&nbsp;-&nbsp;
+        <a href='/AustinYao_Resume.pdf' download='AustinYao_Resume.pdf'>Resume</a>&nbsp;-&nbsp;
         <a href='https://twitter.com/austinyao_'>Twitter</a>&nbsp;-&nbsp;
         <a href='https://vsco.co/austinyao/gallery'>Photos</a>
       </div>
