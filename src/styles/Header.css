@@ -1,0 +1,21 @@
+.header-nav {
+    list-style-type: none;
+    /* Remove default bullet points */
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.header-nav li {
+    display: inline-block;
+    /* Display list items horizontally */
+    margin-right: 10px;
+    /* Add spacing between list items */
+    font-size: 0.9em;
+}
+
+.header-nav li:last-child {
+    margin-right: 0;
+    /* Remove margin from the last list item */
+}
