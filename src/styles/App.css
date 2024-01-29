@@ -44,8 +44,8 @@ p {
 
 .left {
   justify-self: start;
-  align-self: start;
   justify-content: start;
+  align-self: center;
   display: inline-block;
 }
 
