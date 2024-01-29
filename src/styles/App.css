@@ -19,10 +19,10 @@ p {
   font-family: 'Calibri Normal';
 }
 
-.h1 {
+.left h1 {
   padding: 0;
   margin: 0;
-
+  line-height: 120%;
 }
 
 .parent {
@@ -75,6 +75,11 @@ p {
     justify-self: start;
     align-self: start;
     justify-content: start;
+    margin-top: 1.5em;
+  }
+
+  .intro {
+    margin-top: 1.5em;
   }
 }
 
