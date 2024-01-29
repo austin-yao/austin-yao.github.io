@@ -16,7 +16,7 @@ const App = () => {
               animate={{ opacity: 1 }}
               transition={{
                 duration: 0.5,
-                delay: i == 0 ? i / 5 : i / 4 + 3 / 4
+                delay: i == 0 ? i / 5 : i / 4 + 1
               }}
               key={i}
             >
