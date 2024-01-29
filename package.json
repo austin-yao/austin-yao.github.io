@@ -2,7 +2,7 @@
   "name": "personal-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://www.austinyao.com/404.html",
+  "homepage": "https://www.austinyao.com/",
   "type": "module",
   "scripts": {
     "dev": "vite",
