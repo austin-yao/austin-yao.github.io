@@ -4,7 +4,8 @@ function Writing() {
     return (
         <div>
             <Header />
-            <b>Coming soon.</b>
+            <b><a href="https://mode.mirror.xyz/ZCSIB3AwHgUYcxMBDAX8s4KnYmrISiKbbrbfaxsMeM8">Cooperative Game Theory On-Chain: Part 1</a></b><br></br>
+            <b>...</b>
         </div>
     )
 }
