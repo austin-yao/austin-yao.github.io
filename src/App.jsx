@@ -31,8 +31,8 @@ const App = () => {
       <div className="intro">
         <div>
           <p>I'm a junior at <a href='https://www.seas.upenn.edu/'>Penn</a> pursuing my B.S.E/M.S in CS, but originated from the great <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a>.
-            In the past, I've worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1210/current/index.html'>CIS 1210</a> and <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a>, and conducted research in the crypto space working with companies like <a href='https://scroll.io/'>Scroll</a>. I'm currently studying distributed systems and game theory.</p>
-          <p>In my spare time, I love listening to <a href='https://open.spotify.com/playlist/5c6wQwpZ9xEqHelhPxoa6h?si=43a167cd0612481b'>music</a>, checking in on my fantasy football <a href='https://x.com/austinyao_/status/1595253639907610624?s=20'>team</a>, and spending time in the outdoors.</p>
+            In the past, I've worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1210/current/index.html'>CIS 1210</a> and <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a>, and conducted research in the crypto space working with companies like <a href='https://scroll.io/'>Scroll</a>. I'm currently studying distributed systems and learning more about neural networks.</p>
+          <p>In my spare time, I enjoy listening to <a href='https://open.spotify.com/user/swaggerking11?si=852710a5c6844d8d'>music</a>, following my fantasy football <a href='https://x.com/austinyao_/status/1595253639907610624'>team</a>, and spending time in the outdoors.</p>
           <p>Two of my objectives this year are to do more coding and writing, and I'm looking forward to sharing my work here.</p>
         </div>
       </div>
