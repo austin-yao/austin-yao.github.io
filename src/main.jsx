@@ -21,7 +21,7 @@ const router = createBrowserRouter([
     element: <Writing />,
   },
   {
-    path: "/entry/decentralization",
+    path: "/entry/:title",
     element: <Entry />
   },
 ]);
