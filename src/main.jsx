@@ -8,6 +8,7 @@ import {
 
 import App from './App.jsx'
 import Writing from './components/writing.jsx'
+import Entry from './components/entry.jsx'
 import './styles/index.css'
 
 const router = createBrowserRouter([
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/writing",
     element: <Writing />,
+  },
+  {
+    path: "/entry/:title",
+    element: <Entry />
   },
 ]);
 
