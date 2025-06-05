@@ -25,15 +25,15 @@ const App = () => {
           ))}
         </div>
         <div className="right">
-          <img className="circle-image" src='/me-v2.jpg' alt='Circuluar' />
+          <img className="circle-image" src='/me.jpg' alt='Circuluar' />
         </div>
       </div>
       <div className="intro">
         <div>
           <p>I'm a senior at <a href='https://www.seas.upenn.edu/'>Penn</a> pursuing my B.S.E/M.S in CS and am originally from <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a>.
-            In the past, I've worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1210/current/index.html'>CIS 1210</a> and <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a>, and conducted research in the crypto space for companies like <a href='https://scroll.io/'>Scroll</a>. I'm currently studying distributed systems and learning more about neural networks.</p>
-          <p>In my spare time, I enjoy listening to <a href='https://open.spotify.com/user/swaggerking11?si=852710a5c6844d8d'>music</a>, supporting my fantasy football <a href='https://x.com/austinyao_/status/1595253639907610624'>team</a>, and spending time in the outdoors.</p>
-          <p>Two of my objectives this year are to do more coding and writing, and I'm looking forward to sharing my work here.</p>
+            In the past, I've worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1210/current/index.html'>CIS 1210</a> and <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a>, and contributed to research projects on protocol design and Ethereum's space efficiency.</p>
+          <p>In my spare time, I enjoy listening to <a href='https://open.spotify.com/user/swaggerking11?si=852710a5c6844d8d'>music</a>, supporting my fantasy football <a href='https://x.com/austinyao_/status/1595253639907610624'>team</a>, and going on random walks both online and in the literal sense. Very occasionally, I'll find the impetus to ground and decode some of my thoughts into writing, which I'll share here.</p>
+          <p>Feel free to reach out!</p>
         </div>
       </div>
       <div className="footer">
