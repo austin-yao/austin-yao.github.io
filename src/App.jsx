@@ -25,7 +25,7 @@ const App = () => {
           ))}
         </div>
         <div className="right">
-          <img className="circle-image" src='/me.jpg' alt='Circuluar' />
+          <img className="circle-image" src='/me-v2.jpg' alt='Circuluar' />
         </div>
       </div>
       <div className="intro">
