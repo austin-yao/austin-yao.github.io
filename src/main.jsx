@@ -8,7 +8,7 @@ import {
 
 import App from './App.jsx'
 import Writing from './components/writing.jsx'
-import Entry from './components/Entry.jsx'
+import Entry from './components/entry.jsx'
 import './styles/index.css'
 
 const router = createHashRouter([

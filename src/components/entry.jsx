@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import Header from './Header.jsx'
+import Header from './header.jsx'
 import '../styles/Entry.css'
 
 const Entry = () => {
