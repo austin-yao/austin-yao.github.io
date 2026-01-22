@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 
 import App from './App.jsx'
-import Writing from './components/Writing.jsx'
+import Writing from './components/writing.jsx'
 import Entry from './components/Entry.jsx'
 import './styles/index.css'
 
