@@ -1,6 +1,5 @@
-import { useState } from 'react'
 import './styles/App.css'
-import Header from './components/header.jsx'
+import Header from './components/Header.jsx'
 import { motion } from "framer-motion";
 
 const App = () => {
@@ -16,7 +15,7 @@ const App = () => {
               animate={{ opacity: 1 }}
               transition={{
                 duration: 0.5,
-                delay: i == 0 ? i / 5 : i / 4 + 1
+                delay: i === 0 ? i / 5 : i / 4 + 1
               }}
               key={i}
             >
@@ -30,10 +29,9 @@ const App = () => {
       </div>
       <div className="intro">
         <div>
-          <p>I'm a senior at <a href='https://www.seas.upenn.edu/'>Penn</a> pursuing my B.S.E/M.S in CS and am originally from <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a>.
-            In the past, I've worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1210/current/index.html'>CIS 1210</a> and <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a>, and contributed to research projects on protocol design and Ethereum's space efficiency.</p>
-          <p>In my spare time, I enjoy listening to <a href='https://open.spotify.com/user/swaggerking11?si=852710a5c6844d8d'>music</a>, supporting my fantasy football <a href='https://x.com/austinyao_/status/1595253639907610624'>team</a>, and going on random walks both online and in the literal sense. Very occasionally, I'll find the impetus to ground and decode some of my thoughts into writing, which I'll share here.</p>
-          <p>Feel free to reach out!</p>
+          <p>I'm based in the Bay Area and currently work at <a href='https://www.aven.com/'>Aven</a>. I'm originally from <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a> and studied Computer Science at <a href='https://www.thedp.com/article/2025/12/penn-alumni-news-controversies-2025-trump-mangione-luigi-musk-charlie-javice'>Penn</a>. Previously, I have worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a> at Penn, and contributed to research in the Crypto space.</p>
+          <p>My interests broadly lie in Applied AI, start-ups, random walks, football, and on occasions, decoding my thoughts into writing, which I will share here.</p>
+          <p>Always happy to chat. Feel free to reach out.</p>
         </div>
       </div>
       <div className="footer">

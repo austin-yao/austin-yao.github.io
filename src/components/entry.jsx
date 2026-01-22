@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import '../styles/Entry.css'
 
-function Entry() {
-    let { title } = useParams();
+const Entry = () => {
+    const { title } = useParams();
     const [content, setContent] = useState('');
 
     useEffect(() => {

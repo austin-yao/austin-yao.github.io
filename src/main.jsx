@@ -2,15 +2,13 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 import {
-  createBrowserRouter,
   RouterProvider,
   createHashRouter,
-  HashRouter
 } from "react-router-dom";
 
 import App from './App.jsx'
-import Writing from './components/writing.jsx'
-import Entry from './components/entry.jsx'
+import Writing from './components/Writing.jsx'
+import Entry from './components/Entry.jsx'
 import './styles/index.css'
 
 const router = createHashRouter([
