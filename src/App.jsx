@@ -29,7 +29,7 @@ const App = () => {
       </div>
       <div className="intro">
         <div>
-          <p>I'm based in the Bay Area and currently work at <a href='https://www.aven.com/'>Aven</a>. I'm originally from <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a> and studied Computer Science at <a href='https://www.thedp.com/article/2025/12/penn-alumni-news-controversies-2025-trump-mangione-luigi-musk-charlie-javice'>Penn</a>. Previously, I have worked on tech at Morgan Stanley, TAed <a href='https://www.cis.upenn.edu/~cis1600/current/'>CIS 1600</a> at Penn, and contributed to research in the Crypto space.</p>
+          <p>I'm based in the Bay Area and currently work at <a href='https://factory.ai/'>Factory</a>. I grew up in <a href='https://en.wikipedia.org/wiki/Cary,_North_Carolina'>Cary, NC</a> and studied Computer Science at <a href='https://www.thedp.com/article/2025/12/penn-alumni-news-controversies-2025-trump-mangione-luigi-musk-charlie-javice'>Penn</a>. Previously, I have worked at <a href='https://www.aven.com/'>Aven</a> and Morgan Stanley, and contributed to research in the Crypto space.</p>
           <p>My interests broadly lie in Applied AI, start-ups, random walks, football, and on occasions, decoding my thoughts into writing, which I will share here.</p>
           <p>Always happy to chat. Feel free to reach out.</p>
         </div>
